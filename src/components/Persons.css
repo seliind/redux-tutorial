@@ -1,0 +1,13 @@
+.displayPerson{
+    margin-top: 20px;
+  }
+  .displayPerson div {
+    width: 400px;
+    height: 150px;
+    padding:20px;
+    margin:20px;
+    border-radius: 10px;
+    border-color: black;
+    text-align: center;
+    background-color:cornsilk;
+  }
